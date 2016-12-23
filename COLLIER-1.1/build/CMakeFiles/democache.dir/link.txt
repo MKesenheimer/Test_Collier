@@ -1,0 +1,1 @@
+/usr/local/bin/gfortran    -Dcollierdd -DSING -ffixed-line-length-132  -fno-default-integer-8 -O2 -funroll-loops -ffast-math -Wtabs CMakeFiles/democache.dir/demos/democache.f90.o  -o ../demos/democache  /Users/kesenheimer/Desktop/Test_Collier/libcollier.a 
